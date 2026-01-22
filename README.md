@@ -23,12 +23,12 @@ The proposed method is as follows:
 ## File Structure
 
 ```bash
-├── CenterIR.py         # Implementation of the proposed CenterIR loss function
-├── run.py              # Main entry point to run
+├── README.md           # Project documentation
+├── loss_CenterIR.py    # Implementation of the proposed CenterIR loss function
 ├── model.py            # CNN-Bi-LSTM architecture definition
-├── train.py            # Training and validation procedures
 ├── requirements.txt    # Dependencies and version information
-└── README.md           # Project documentation
+├── run.py              # Main entry point to run
+└── train.py            # Training and validation procedures
 
 ```
 
