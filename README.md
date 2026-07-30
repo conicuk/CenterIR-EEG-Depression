@@ -101,8 +101,6 @@ CenterIR_lambda = 5e-8    # CenterIR's weight parameter
 
 If you find this work useful in your research, please consider citing our paper:
 
-**"CenterIR: An Imbalance-Aware Deep Regression Framework for EEG-Based Depression Severity Estimation in Older Adults"**
-
-(The paper is currently under-review.)
+**Nayun Kim et al., "CenterIR: An Imbalance-Aware Deep Regression Framework for EEG-Based Depression Severity Estimation in Older Adults," Expert Systems with Applications, Vol. 323, No. 1, 2026, pp 132358.**
 
 
